@@ -1,0 +1,2 @@
+<?php
+$MESS["SALE_CASHBOX_BUSINESS_RU_TITLE_V5"] = "Á³çíåñ.ÐÓ (ÔÔÄ 1.2)";

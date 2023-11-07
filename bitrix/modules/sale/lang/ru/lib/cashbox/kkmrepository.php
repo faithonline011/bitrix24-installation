@@ -1,0 +1,4 @@
+<?php
+$MESS["SALE_CASHBOX_KKM_ATOL"] = "ÀÒÎË";
+$MESS["SALE_CASHBOX_KKM_SHTRIHM"] = "Øòðèõ-Ì";
+$MESS["SALE_CASHBOX_KKM_EVOTOR"] = "Ýâîòîð";
